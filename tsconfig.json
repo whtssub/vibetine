@@ -11,7 +11,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["vibetine.github.io/src/*"]
     }
   }
 }
